@@ -15,6 +15,11 @@ footnoteReturnLinkContents = "^"
     name = "About"
     url = "/about/"
     weight = 10
+  [[menu.main]]
+    identifier = "AirConditioner"
+    name = "AirConditioner"
+    url = "https://ac.flyfriend.eu.org/#/"
+    weight = 20
 
 [taxonomies]
 category = "categories"
