@@ -1,5 +1,5 @@
 theme = "simple-blog"
-baseURL = "https://blog.flyfriend.eu.org/"
+baseURL = "https://blog.flyfriend.cn/"
 title = "Flyfriends Offical"
 copyright = "© 2020-2021 Copyright Flyfriends."
 paginate = 3
